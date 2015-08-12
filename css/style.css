@@ -303,7 +303,7 @@ header nav ul {
   font-size: 13px;
   margin-top: 30px;
 }
-.testimonials li.one-fourth.2 {
+.testimonials .staggered {
   position: relative;
   top:20px;
 }
