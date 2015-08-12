@@ -261,3 +261,6 @@ header nav ul {
   color: #3498DB;
 }
 
+.testimonials ul li {
+   list-style-type: none;
+ }
