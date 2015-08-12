@@ -182,11 +182,11 @@ header nav ul {
   padding: 4em 0;
 }
 .pricing h2, .pricing p {
-  color: #FFFFFF;
+  color:#FFFFFF;
 }
 .pricing ul {
   margin:0 auto;
-  padding: 2em 0;
+  padding:2em 0;
 }
 .pricing ul li {
   list-style-type: none;
