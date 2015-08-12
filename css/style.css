@@ -262,5 +262,29 @@ header nav ul {
 }
 
 .testimonials ul li {
-   list-style-type: none;
- }
+  list-style-type: none;
+}
+.testimonials blockquote {
+  color: #FFFFFF;
+  text-align: left;
+  font-style: italic;
+  background: #34495E;
+  position: relative;
+  padding: 30px;
+  width: auto;
+  margin: 0;
+}
+.testimonials blockquote:after {
+  top: 100%;
+  left: 13%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+  border-top-color: #34495E;
+  border-width: 10px;
+  margin-left: -10px;
+}
+
