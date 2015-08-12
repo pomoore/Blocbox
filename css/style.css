@@ -287,4 +287,18 @@ header nav ul {
   border-width: 10px;
   margin-left: -10px;
 }
-
+.testimonials img {
+  height: 65px;
+  width: 65px;
+  border-radius: 50%;
+  float: left;
+  display: inline-block;
+  margin: 20px 10px 0 0;
+}
+.testimonials p.name {
+  float: left;
+  display: inline-block;
+  text-align: left;
+  font-size: 13px;
+  margin-top: 30px;
+}
