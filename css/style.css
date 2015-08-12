@@ -65,12 +65,12 @@ p {
   }
 }
 
-/* @media (min-width: 1440 px) {
+@media (min-width: 2000 px) {
   .container {
-  width: 1400;
+  width: 1800;
   }
   .one-half {
-  width 46%;
+  width:46%;
   }
   .one-third {
   width: 29.33333%;
@@ -79,7 +79,7 @@ p {
   width: 21%;
   }
 }
-*/
+
 /* HEADER */
 animated fadeIn{
 
@@ -148,3 +148,28 @@ header nav ul {
   border: 2px solid #2eecc71;
   box-shadow: 0px 2px 0px #22894E;
  }
+ /*BENEFITS*/
+
+ .benefits {
+  text-align: center;
+  display: block;
+  position: relative;
+ }
+ .benefits ul {
+  margin: 0 auto;
+  padding:4em 0;
+ }
+ .benefits ul li {
+  list-style-type: none;
+  display: inline-block;
+ }
+ .benefits i {
+  color: #3498d8;
+  font-size: 60px;
+  margin: 0;
+  vertical-align: middle;
+ }
+ .benefits h2 {
+  color: #3498db;
+ }
+ 
