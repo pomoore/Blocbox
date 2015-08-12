@@ -252,6 +252,11 @@ header nav ul {
 }
 
 /* TESTIMONIALS */
+.testimonials {
+  padding: 4em 0;
+  text-align: center;
+}
+
 .testimonials h2 {
   color: #3498DB;
 }
