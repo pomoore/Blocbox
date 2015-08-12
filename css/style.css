@@ -303,7 +303,7 @@ header nav ul {
   font-size: 13px;
   margin-top: 30px;
 }
-.testimonials li 2,4 {
+.testimonials span {
   position:relative;
   top:20px;
 }
