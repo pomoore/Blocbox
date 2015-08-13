@@ -465,6 +465,7 @@ footer .logo{
    margin:0 2% 25px;
    float:left;
    display:block;
+   position: relative;
    top: 50px;
 
  }
