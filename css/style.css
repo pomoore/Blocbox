@@ -475,6 +475,7 @@ footer .logo{
    position: relative;
    overflow: hidden;
    padding:20px;
+   float: left;
  }
 /* Larger Mobile Devices */
  @media (min-width:460px) {
