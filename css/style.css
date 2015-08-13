@@ -455,7 +455,7 @@ footer .logo{
    color: #3498DB;
    line-height: 44px;
    float: left;
-   display:inline-block;
+   display:block;
    padding: 40px;
  }
  .content .header > a {
