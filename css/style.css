@@ -466,6 +466,7 @@ footer .logo{
    margin:0 2% 25px;
    float:left;
    display:block;
+   padding: 40px;
  }
  .item-box {
    display:block;
@@ -475,8 +476,7 @@ footer .logo{
    position: relative;
    overflow: hidden;
    padding:20px;
-   float: left;
- }
+  }
 /* Larger Mobile Devices */
  @media (min-width:460px) {
    .content {
