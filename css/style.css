@@ -438,43 +438,7 @@ footer .logo{
    margin-top:8px;
 }
 /* CONTENT */
- .content {
-   padding:6em 1% 1.5em;
-   float:right;
-   width:98%;
-   position: relative;
- }
- .content .header {
-   margin:0 1% 20px;
- }
- .content .header h1 {
-   font-family: "Lato", Helvetica, Arial, sans-serif;
-   font-weight: 100;
-   margin:0 0 30px;
-   font-size: 36px;
-   color: #3498DB;
-   line-height: 44px;
-   float: left;
-   display:inline-block;
- }
- .content .header > a {
-   float:right;
- }
- .content-item {
-   width:96%;
-   margin:0 2% 25px;
-   float:left;
-   display:block;
- }
- .item-box {
-   display:block;
-   height:230px;
-   background: #FFFFFF;
-   box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.40);
-   position: relative;
-   overflow: hidden;
-   padding:20px;
- }
+ 
 /* Larger Mobile Devices */
  @media (min-width:460px) {
    .content {
